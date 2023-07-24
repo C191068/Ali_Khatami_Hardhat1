@@ -32,5 +32,8 @@ Thus we have typed the command to install those packages shown with white arrow 
 
 Figure7: Then we give the above two commands as instructed <br>
 
+![h8](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/08f9d5ac-c236-493d-b04c-85ab66036908)
+
+Figure8: Thus we have advanced projects here <br>
 
 
