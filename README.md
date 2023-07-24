@@ -32,9 +32,9 @@ Thus we have typed the command to install those packages shown with white arrow 
 
 Figure7: Then we give the above two commands as instructed <br>
 
-![h8](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/08f9d5ac-c236-493d-b04c-85ab66036908)
 
-Figure8: Thus we have advanced projects here <br>
+
+
 
 ![h9](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/8c27e25b-fe98-4b1e-8504-423fa0c84896)
 
@@ -43,6 +43,14 @@ Figure9: to install solhint we will give the above command <br>
 ![h10](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/b2b4d25f-1f70-4fbf-8ea0-b4961d4d9f0a)
 
 figure10: Now we will give the above white mark command and it will install the above yellow mark file <br>
+
+![h11](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/a10c9d31-0143-4a19-96b5-d40ced660aad)
+
+Figure11: To install prettierignore I have to do the above <br>
+
+![h12](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/761aa332-1464-4fdc-8698-f74fd07ae2ba)
+
+Figure12: Thus we have advanced projects here <br>
 
 
 
