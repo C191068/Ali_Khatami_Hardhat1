@@ -26,7 +26,7 @@ Figure5: here it asks for confirmation which directoty we want as a root for our
 ![h6](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/d34a0f93-7af5-4815-91d1-030898ac61bc)
 
 Figure6: here it instructs us to install some packages to run the sample project sown with yellow arrow <br>
-Thus we have typed the command to install those packages shown with blue arrow <br>
+Thus we have typed the command to install those packages shown with white arrow <br>
 
 
 
