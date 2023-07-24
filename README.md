@@ -10,3 +10,6 @@ Figure1: Here we run the above command to install hardhat <br>
 
 Figure2: At our package dot json folder we can see the version of hardhat which is installed <br>
 
+![h3](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/f919cf84-f8c1-4132-91de-fd5c7621eb7e)
+
+Figure3: If we run the above command it will show the above output
