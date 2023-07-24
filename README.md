@@ -28,7 +28,9 @@ Figure5: here it asks for confirmation which directoty we want as a root for our
 Figure6: here it instructs us to install some packages to run the sample project sown with yellow arrow <br>
 Thus we have typed the command to install those packages shown with white arrow <br>
 
+![h7](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/af01dca7-d55e-4b64-82c7-d85efdad17d8)
 
+Figure7: Then we give the above two commands as instructed <br>
 
 
 
