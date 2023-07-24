@@ -18,3 +18,7 @@ Figure3: If we run the above command it will show the above output
 
 figure4: here we will click ```Create javascript project``` <br>
 
+![h5](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/e0afa713-cec8-4844-9d7a-592a7aca0bef)
+
+Figure5: here it asks for confirmation which directoty we want as a root for our project <br>
+
