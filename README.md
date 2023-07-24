@@ -36,4 +36,13 @@ Figure7: Then we give the above two commands as instructed <br>
 
 Figure8: Thus we have advanced projects here <br>
 
+![h9](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/8c27e25b-fe98-4b1e-8504-423fa0c84896)
+
+Figure9: to install solhint we will give the above command <br>
+
+![h10](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/b2b4d25f-1f70-4fbf-8ea0-b4961d4d9f0a)
+
+figure10: Now we will give the above white mark command and it will install the above yellow mark file <br>
+
+
 
