@@ -13,3 +13,8 @@ Figure2: At our package dot json folder we can see the version of hardhat which 
 ![h3](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/f919cf84-f8c1-4132-91de-fd5c7621eb7e)
 
 Figure3: If we run the above command it will show the above output
+
+![h4](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/4b143ade-2765-47b2-bf2d-6bef952d1eab)
+
+figure4: here we will click ```Create javascript project``` <br>
+
