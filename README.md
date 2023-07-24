@@ -53,4 +53,14 @@ Figure11: To install prettierignore I have to do the above <br>
 Figure12: Thus we have advanced projects here <br>
 
 
+### Linting
+
+
+![h13](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/03d9ac29-ddd3-4890-a8e7-e5fdf732b16f)
+
+In the above figure ```solhint``` is known as solidity linter which is used to lint our code <br>
+
+Linting is a process for running the progrramme that will ananlyze code for potential errors <br>
+
+and the above .prettiarrc is used for formatting our code 
 
