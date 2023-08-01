@@ -113,5 +113,12 @@ Thus error is shown with yellow arrow at the console <br>
 Figure18: we have rename the solidity file as ```akrkFundme.sol``` <br>
 
 
+We will take of ```akrkFundme.sol``` from thsi link https://github.com/C191068/Ali_Khatami_Solidity15 <br>
+
+and code of ```akrkPriceConvertor.sol``` from this link https://github.com/C191068/Ali_Khatami_Solidity_11 <br>
+
+![h20](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/9480b349-016a-4740-a01f-7394f675e58b)
+
+Figure19: then we pasted the codes in the respective files <br>
 
 
