@@ -146,7 +146,7 @@ yarn add --dev @chainlink/contracts
 
 the above chainlink <br>
 shown with yellow arrow comes inside node modules folder <br>
-
+source: https://stackoverflow.com/questions/73431182/cannot-find-module-nomicfoundation-hardhat-toolbox
 
 
 
