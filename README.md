@@ -64,3 +64,25 @@ Linting is a process for running the progrramme that will ananlyze code for pote
 
 and the above .prettiarrc is used for formatting our code 
 
+
+![h14](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/eb0f1f8c-c7d8-4fbb-93d0-7e21f7024843)
+
+Figure13: the above command is needed to install ```touch``` in windows by going to this link https://stackoverflow.com/questions/36126269/touch-is-not-recognized-as-an-internal-or-external-command-operable-program-o
+
+then we will give the below to command 
+
+```
+touch yarn.lock
+
+yarn
+
+```
+
+to include yarn lock in this directory ```E:\akrkethjs\akrkethers-simple-storage\akrkhardhatFundme``` <br>
+
+
+
+
+
+
+
