@@ -108,6 +108,9 @@ which is if any variable is without visibility to show error as ouput in the con
 Figure17: In the white arrow we can see we have remove the visibility in the two varibales <br>
 Thus error is shown with yellow arrow at the console <br>
 
+![h19](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/abe499cd-8383-4639-8a38-1850df66c108)
+
+Figure18: we have rename the solidity file as ```akrkFundme.sol``` <br>
 
 
 
