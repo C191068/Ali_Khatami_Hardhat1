@@ -85,6 +85,11 @@ to include yarn lock in this directory ```E:\akrkethjs\akrkethers-simple-storage
 
 figure14: then we can see that here ```yarn.lock``` and inside of it necessary informations <br>
 
+To add Solhint I have taken help from thsi github link   https://github.com/protofire/solhint<br>
+
+![h16](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/06e6a99c-745e-4fea-949e-5015e48f13c4)
+
+Figure15: Then I have done the above <br>
 
 
 
