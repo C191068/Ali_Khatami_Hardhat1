@@ -105,7 +105,7 @@ which is if any variable is without visibility to show error as ouput in the con
 
 ![h18](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/11f1d71a-a39d-4841-b2a6-641a43886038)
 
-Figure17: In the white yerrow we can see we have remove the visibility in the two varibales <br>
+Figure17: In the white arrow we can see we have remove the visibility in the two varibales <br>
 Thus error is shown with yellow arrow at the console <br>
 
 
