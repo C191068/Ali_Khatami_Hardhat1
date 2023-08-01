@@ -67,7 +67,9 @@ and the above .prettiarrc is used for formatting our code
 
 ![h14](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/eb0f1f8c-c7d8-4fbb-93d0-7e21f7024843)
 
-Figure13: the above command is needed to install ```touch``` in windows by going to this link https://stackoverflow.com/questions/36126269/touch-is-not-recognized-as-an-internal-or-external-command-operable-program-o
+Figure13: the above command is needed to install ```touch``` in windows by going to this link https://stackoverflow.com/questions/36126269/touch-is-not-recognized-as-an-internal-or-external-command-operable-program-o  <br>
+https://stackoverflow.com/questions/64048830/yarn-2-init-add-failing
+
 
 then we will give the below to command 
 
