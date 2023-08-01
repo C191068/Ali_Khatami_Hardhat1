@@ -98,6 +98,16 @@ alternative way:
 https://chat.openai.com/share/4f9525be-a6a5-41e6-9e83-1df72f8404a7
 
 
+![h17](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/b09cf37e-0e59-4753-9977-2429fcbaa0f9)
+
+Figure16: Here in the white arrow we have shown that we have added  rules at our solhint.json file <br>
+which is if any variable is without visibility to show error as ouput in the console <br>
+
+![h18](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/11f1d71a-a39d-4841-b2a6-641a43886038)
+
+Figure17: In the white yerrow we can see we have remove the visibility in the two varibales <br>
+Thus error is shown with yellow arrow at the console <br>
+
 
 
 
