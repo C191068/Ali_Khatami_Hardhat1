@@ -81,6 +81,10 @@ yarn
 to include yarn lock in this directory ```E:\akrkethjs\akrkethers-simple-storage\akrkhardhatFundme``` <br>
 
 
+![h15](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/3a2daca6-2059-4f25-8a66-30cfa1515599)
+
+figure14: then we can see that here ```yarn.lock``` and inside of it necessary informations <br>
+
 
 
 
