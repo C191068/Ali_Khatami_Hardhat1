@@ -93,6 +93,11 @@ To add Solhint I have taken help from thsi github link   https://github.com/prot
 
 Figure15: Then I have done the above <br>
 
+alternative way:
+
+https://chat.openai.com/share/4f9525be-a6a5-41e6-9e83-1df72f8404a7
+
+
 
 
 
