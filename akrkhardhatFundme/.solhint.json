@@ -1,0 +1,7 @@
+{
+  "extends": "solhint:default",
+  "rules": {
+    "state-visibility": ["error", "explicit"],
+    "max-line-length": "off"
+  }
+}
