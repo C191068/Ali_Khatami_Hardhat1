@@ -148,6 +148,21 @@ the above chainlink <br>
 shown with yellow arrow comes inside node modules folder <br>
 source: https://stackoverflow.com/questions/73431182/cannot-find-module-nomicfoundation-hardhat-toolbox
 
+then I give the command 
 
+```
+yarn install
 
+```
 
+![h24](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/fab7fe2b-d672-446f-a64a-a1727af74941)
+Figure7: when we click
+
+```
+yarn hardhat compile
+
+```
+
+the above code is successfully compiled 
+
+Using the --force flag will force Hardhat to recompile your Solidity contracts, even if it believes there are no changes.
