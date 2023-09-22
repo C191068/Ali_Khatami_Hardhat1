@@ -6,6 +6,10 @@
 
 Figure1: Here we run the above command to install hardhat <br>
 
+
+What is Hardhat? Hardhat is one of the most popular programming environments based on Javascript for developing Ethereum-based decentralized applications. Hardhat aims to make smart contract development seamless by automating certain steps and providing developers with a diversity of helpful, innovative functions.<br>
+
+
 ![h2](https://github.com/C191068/Ali_Khatami_Hardhat1/assets/89090776/51f6002f-5039-48af-8728-55e7bb3e653b)
 
 Figure2: At our package dot json folder we can see the version of hardhat which is installed <br>
